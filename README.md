@@ -5,7 +5,5 @@ This j.son file is a corpus of various articles posted on social media regarding
 
 Interpretation of Data
 
-	According to my analysis, the most frequent words are [‘china’, ‘said’, ‘coronavirus’, ‘virus]. I suspect that these are the most frequent words because this data was taken during the early phases of Covid, and the virus has not spread to other countries yet. So, many people were searching up China and how China was handling the outbreak at that time. 
-	Bigrams are words that often occur together, I found that words that occur the most together was ‘world’ and ‘health’, ‘coronavirus’ and ‘outbreak’, ‘novel’ and ‘outbreak’, and ‘public’ and ‘health’. Again, this further solidifies my reasoning that this is a new(novel) disease, so people were looking at health information and listening to what health officials had to say about the status of the coronavirus outbreak. 
 	
 
