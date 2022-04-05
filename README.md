@@ -1,4 +1,4 @@
-# Social-Media-Sentiment-Analysis-During-Early-Stages-of-COVID19
+# Social Media Sentiment Analysis During Early Stages of COVID19
 
 ## Data Description 
 
